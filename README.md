@@ -65,7 +65,7 @@
 
 <u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
 
-<img align="right" width="280" height="350" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/IPTV_Player.png">
+<img align="right" width="230" height="300" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/IPTV_Player.png">
 
 ## 🎬IPTV播放器
 📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
@@ -93,7 +93,7 @@
 - 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
 - 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
 
-<img align="right" width="300" height="300" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/doraemon.jpg">
+<img align="right" width="260" height="260" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/doraemon.jpg">
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
