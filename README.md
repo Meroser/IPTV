@@ -69,7 +69,7 @@
 
 
 ## 🎬IPTV播放器
-<img align="right" width="280" height="350" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/IPTV_Player.png">
+<img align="right" width="220" height="280" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/IPTV_Player.png">
 
 📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
