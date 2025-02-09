@@ -1,7 +1,7 @@
 
 
 # Meroser's IPTV📺
-<img align="right" width="350" height="270" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/Meroser.png">
+<img align="right" width="320" height="256" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/Meroser.png">
 欢迎来到Meroser的直播源仓库🎉
 
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
