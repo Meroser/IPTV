@@ -86,8 +86,8 @@
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
 <p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img1.jpg"></p>
-<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img2.jpg"></p>
-<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img3.jpg"></p>
+<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img2.png"></p>
+<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img3.png"></p>
 
 ## 🆕更新
 - 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
