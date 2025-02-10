@@ -12,11 +12,11 @@
 
 - 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
-🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流 [点击链接加入群聊【IPTV交流群2】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Wkxjig1P6jvlrJAHprasyalhBvejXl3&authKey=XUyNW6ZkFzXqpjT0VqMOypkY7mT2paKTn9MZnviZ0zyQHXdjEHTbttjId3KWr%2Fnf&noverify=0&group_code=839970414)
+🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流 [链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Wkxjig1P6jvlrJAHprasyalhBvejXl3&authKey=XUyNW6ZkFzXqpjT0VqMOypkY7mT2paKTn9MZnviZ0zyQHXdjEHTbttjId3KWr%2Fnf&noverify=0&group_code=839970414)
 
 ## 📖说明
-所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
-
+**本项目不提供直播源**🌐，请通过正规渠道办理相关业务。
+示例的播放列表仅供**测试研究使用**，不得**商用**。
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
 <p>
@@ -36,7 +36,7 @@
 | 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
 |  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
 
-<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
+<u>注：以上播放列表无实际直播源，**仅作TVlogo及EPG展示用途。**</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
