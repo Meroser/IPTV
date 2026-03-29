@@ -1,7 +1,7 @@
 
 
 # Meroser's IPTV📺
-<img align="right" width="320" height="240" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/Meroser.png">
+<img align="right" width="320" height="240" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
 欢迎来到Meroser的直播源仓库🎉
 
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
@@ -11,8 +11,6 @@
 - 💯EPG深度**定制匹配**频道列表|**完美匹配**
 
 - 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
-
-🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流 [链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Wkxjig1P6jvlrJAHprasyalhBvejXl3&authKey=XUyNW6ZkFzXqpjT0VqMOypkY7mT2paKTn9MZnviZ0zyQHXdjEHTbttjId3KWr%2Fnf&noverify=0&group_code=839970414)
 
 ## 📖说明
 **本项目不提供直播源**🌐，请通过正规渠道办理相关业务。
@@ -71,7 +69,7 @@
 
 
 ## 🎬IPTV播放器
-<img align="right" width="220" height="280" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/IPTV_Player.png">
+<img align="right" width="220" height="280" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/IPTV_Player.png">
 
 📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
@@ -87,9 +85,9 @@
 
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img1.jpg"></p>
-<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img2.png"></p>
-<p align="center"><img src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/img3.png"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img1.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img2.png"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.png"></p>
 
 ## 🆕更新
 - 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
@@ -99,7 +97,7 @@
 - 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
 
 ## 💡致谢：
-<img align="right" width="260" height="260" src="https://gitlab.com/Meroser/IPTV/-/raw/main/img/doraemon.jpg">
+<img align="right" width="260" height="260" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/doraemon.jpg">
 
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
 - wcb1969：[https://github.com/wcb1969/iptv](https://github.com/wcb1969/iptv)[`特别感谢`]
